@@ -1,5 +1,6 @@
 import unittest
-import main
+
+from microwaveoptimization import main
 
 
 class MyTestCase(unittest.TestCase):
